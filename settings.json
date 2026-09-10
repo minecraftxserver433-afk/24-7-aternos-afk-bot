@@ -29,9 +29,9 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 7200,
+      "repeat-delay": 3600,
       "messages": [
-        "I'm a regular player",
+        "/gamemode creative",
         "Subscribe to Solvex live!",
         "Ig-solvex_live"
       ]
