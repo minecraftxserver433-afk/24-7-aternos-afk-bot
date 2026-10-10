@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Solvex.aternos.me",
-    "port": 31678,
-    "version": "1.20.1",
+    "ip": "Svx-smp.aternos.me",
+    "port": 32038,
+    "version": "26.3",
     "try-creative": true
   },
   "position": {
